@@ -1,6 +1,6 @@
 ## Live URL
 
-You can access the live version of this project at [https://landing-page-rdo.netlify.app/](https://landing-page-rdo.netlify.app).
+You can access the live version of this project at [https://landing-page-rdo.netlify.app](https://landing-page-rdo.netlify.app).
 
 ## How to Run This Project
 
