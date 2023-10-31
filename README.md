@@ -20,8 +20,8 @@ In the terminal, use the following command to clone the project's repository to 
 
 ```bash
 git clone https://github.com/nazmul-rdo/landing-page.git
-
-### Step 4 : Install Dependencies
+```
+### Step 4: Install Dependencies
 
 Navigate to the project folder using the terminal:
 
@@ -29,7 +29,7 @@ Navigate to the project folder using the terminal:
 cd landing-page
 npm install
 npm start
+```
 
-
-
+Your project should now be up and running. You can access it in your web browser at http://localhost:3000.
 
